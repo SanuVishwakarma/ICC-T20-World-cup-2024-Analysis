@@ -2,7 +2,7 @@ Hi Everyone,
 
 This is another projected made by me and it is based on webscrapping and Power BI. 
 
-I am very fond of cricket and recenetly, cricket world cup 2024 has been concluded. I couldn't resist myself from create a project on this and after a lot of thinking and exploration, I thought of creating a power bi report inorder to check stats and patterns in T20 world cup. This project had two parts
+I am very fond of cricket and this year, cricket world cup 2024 has been concluded. I couldn't resist myself from create a project on this and after a lot of thinking and exploration, I thought of creating a power bi report inorder to check stats and patterns in T20 world cup. This project had two parts
 
 1. Webscrapping and preprocessing the webscraped data.
 2. Using the data for power bi reports
