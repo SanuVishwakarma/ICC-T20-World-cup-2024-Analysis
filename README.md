@@ -16,8 +16,6 @@ I have also used scrapy to scrape the images of all the players and logos of all
 After these steps, I preprocessed the scraped data in more usable form and then loaded the data in Power BI.
 
 
-Here is the link to the dataset : <a> https://www.kaggle.com/datasets/codingmukul/t20-world-cup-2024-data </a>
-
 Link to the Power Bi Demo: <a> https://drive.google.com/file/d/1oC22rUVxt6Tr3iJJ7CQzr73csmGO4whv/view?usp=drive_link </a>
 
 
